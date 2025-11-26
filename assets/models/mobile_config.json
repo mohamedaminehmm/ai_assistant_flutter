@@ -1,0 +1,25 @@
+{
+  "model_type": "distilbert",
+  "max_length": 128,
+  "labels": [
+    "app",
+    "call",
+    "note",
+    "reminder",
+    "search"
+  ],
+  "id2label": {
+    "0": "app",
+    "1": "call",
+    "2": "note",
+    "3": "reminder",
+    "4": "search"
+  },
+  "label2id": {
+    "app": 0,
+    "call": 1,
+    "note": 2,
+    "reminder": 3,
+    "search": 4
+  }
+}
